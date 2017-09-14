@@ -1,0 +1,46 @@
+
+
+
+PS C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing> C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\sha256deep64.exe -t -r C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test
+
+fad878bd261840a4ea4a8277c546d4f46e79bbeb60b059cee41f8b50e28d0e88 2017:09:14:12:27:34  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\hello
+1316543942a8c6cd754855500cd37068edbbd8b31c4979d2825a4e799fed6102 2017:09:14:12:27:34  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\hello (2)
+60d13913155644883f130b85eb24d778314014c9479aedb5f6323bf38ad3a451 2017:09:14:12:27:34  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\hello (3)
+1c4ff4e490b15b2b214f26c5654decccbcbea9eb900f88649dc7b1e42341be56 2017:09:14:12:27:34  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\hello (4)
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 2017:09:14:12:27:22  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\test_hello.txt
+8b9a55cf8f47bacbf38bf8902eaf17be228bdb54a1b3d1d9da15e26d03ceffaa 2017:09:14:12:27:22  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\testwhirlpool_hello.txt
+5930d349d70869dfcea0a90f4a72b6b6c68fa8a2b6e9c60bafb872f59453c97e 2017:09:14:12:27:22  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\test_md5_hello.txt
+b51fddde2081436f8eabd6bec39357a4f696fad5c027f805da2bdb5b09fb6060 2017:09:14:12:27:22  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\test_sha256_hello.txt
+b656f039402c585d90d8f70c3271dedd34c05edb1721421846f93bc46282b376 2017:09:14:12:27:22  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\test_wp_hello.txt
+c86e8eff71d828bab248abcdda67b57cbea8a9cb6bb6cd02034ebb17fc7009bc 2017:09:14:12:27:22  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\time_compare_test_hello.txt
+
+
+
+PS C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing> C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\whirlpooldeep64.exe -t -r C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test
+
+1f4388f4a81a6cfacde955cf5fd84c4e76f12876db3356e2a84efda91f8c44407b3626b770d9752f9b0aa05927e7fb7c66e07ea96ea47ece2ca78a40cedb9d7e 2017:09:14:12:27:34  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\hello
+959593fe62721c9d058831eaa742f103d1b853b43a81a94dd30cc89a6dafb6926b64bdd7b0ef16a4c566601f81af95988fb952720482562a6269728ef5f5d5fb 2017:09:14:12:27:34  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\hello (3)
+aae0a840704962b3026cf5b2058aa1a3d7752e6d562e0a843ce0abf7107666fb475ac45df08587c468f7754847f2be4cebd1172dedfebfaa6527c8da2b1bc364 2017:09:14:12:27:34  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\hello (2)
+4324731f2340b0d5ce741f566abd7ebf8a1c18a15e4835bd8c25bdc974ec275a6e088982422456060bf145d7013cd0aa8ac1b62ee3f8149bfd6490e6a5a95efa 2017:09:14:12:27:34  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\hello (4)
+ecd8a5ca2e94899420d1b4ba150f23e4fcfa70fd74062f9e341a55e26db375adcedc4becacd90450928d91c1d78087a66304c5cb010ade8ff03a923569167640 2017:09:14:12:27:22  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\test_md5_hello.txt
+cd5324f733eff09d647e25bedb4e9d20dc0765ad1ccfcdfd25316fb1df03914634d767fb311d00c6e19c6ec9f6d1430c24a4f87d947477a377cce0542402c8c7 2017:09:14:12:27:22  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\test_sha256_hello.txt
+0d8a4947324854e785120f458cf49c3f050d3c6f7053d961eb89b8898e0bf9eafd1aa1025f06de20de869ee881bd0b00d368aa4387f5b2dfff04107e00bd03bb 2017:09:14:12:27:22  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\testwhirlpool_hello.txt
+19fa61d75522a4669b44e39c1d2e1726c530232130d407f89afee0964997f7a73e83be698b288febcf88e3e03c4f0757ea8964e59b63d93708b138cc42a66eb3 2017:09:14:12:27:22  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\test_hello.txt
+cd4228bc5292bb243bd7a18d5db8419895c1393e52c3ddbf6561ce599085fc935bfe6dde74d13566b0a2f6decbb4e6a6c64bb5a0c753911698b695be522247db 2017:09:14:12:27:22  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\test_wp_hello.txt
+d34fe1349fe6e6ef33010a48af7b04498eefc8702563e3d40bb34cb01705c6d0f2a5cb1a969ddcdb37f3547e531addad1b6ad3c1f8cc9c582a68185b8440c91f 2017:09:14:12:27:22  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\time_compare_test_hello.txt
+
+
+PS C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing> C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\md5deep64.exe -t -r C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test
+
+da5c61e1edc0f18337e46418e48c1290 2017:09:14:12:27:34  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\hello
+cdc47d670159eef60916ca03a9d4a007 2017:09:14:12:27:34  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\hello (2)
+cdc47d670159eef60916ca03a9d4a007 2017:09:14:12:27:34  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\hello (3)
+da5c61e1edc0f18337e46418e48c1290 2017:09:14:12:27:34  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\hello (4)
+b076b440e2ac6e392a7172a60b107042 2017:09:14:12:27:22  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\testwhirlpool_hello.txt
+d41d8cd98f00b204e9800998ecf8427e 2017:09:14:12:27:22  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\test_hello.txt
+b2e85f921e590c143c301a6713e5fe0d 2017:09:14:12:27:22  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\test_md5_hello.txt
+ed82a7abc238002699079a7a30a2b9d0 2017:09:14:12:27:22  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\test_sha256_hello.txt
+649be596531b5f0afd118f1d45616c51 2017:09:14:12:27:22  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\test_wp_hello.txt
+917311b1746e8706361921326eb6b91b 2017:09:14:12:27:22  C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing\test\time_compare_test_hello.txt
+
+PS C:\Users\cs2lab\Desktop\Shared_Folder\DiFo2017\Lab1\Exercise1_Hashing>
