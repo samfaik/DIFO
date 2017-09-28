@@ -1,0 +1,21 @@
+ExifTool Version Number         : 10.61
+File Name                       : c2l.png
+Directory                       : C:/Users/cs2lab/Desktop/test1
+File Size                       : 18 kB
+File Modification Date/Time     : 2017:08:09 14:40:16+02:00
+File Access Date/Time           : 2017:09:19 15:47:59+02:00
+File Creation Date/Time         : 2017:09:19 15:47:59+02:00
+File Permissions                : rw-rw-rw-
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 403
+Image Height                    : 157
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 403x157
+Megapixels                      : 0.063
+-- press RETURN --
