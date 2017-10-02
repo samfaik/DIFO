@@ -1,0 +1,11 @@
+$pdf$4*4*128*-1060*1*16*cc37d78fe24e6a47bc6bbcde9addbc20*32*61717d5c40ecc448bb9b2b408912f99100000000000000000000000000000000*32*25a51fd60366f2920e92ff36632afc17dea56972074715df6e45ac2a1f15bf01:01frid
+
+
+C:\Users\group4\Desktop\DIFOFiles2017\hashcat-3.6.0>hashcat64.exe -m 10500 -a 3 -1 ?d -2 ?l -o output.txt --show C:\Users\group4\Desktop\test_group14\casssh_hash ?1?1?2?2?2?2
+
+
+options used from hashcat:
+-m for 10500 this is pdf hash mode
+-a 3 for brute force
+regex was two digits and four letter (?1?1?2?2?2?2)
+use custom characters with -1 ..... -9

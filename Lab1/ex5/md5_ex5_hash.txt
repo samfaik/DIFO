@@ -1,0 +1,8 @@
+159ef8f471caef32db49dc9b331e10a5  C:\Users\cs2lab\Desktop\group14\ht.zip.tar.gpg
+0a4532f87c41c31f1b716cd21ea8fa51  C:\Users\cs2lab\Desktop\group14\Untitled 1.ods
+d41d8cd98f00b204e9800998ecf8427e  C:\Users\cs2lab\Desktop\group14\md5_hash.txt
+f77f0c2ea19035ace1d47b266245984d  C:\Users\cs2lab\Desktop\group14\casssh.pdf
+3a9b988f1496b2598cf08023603bcf3c  C:\Users\cs2lab\Desktop\group14\untitled.docx
+fbf3b26fcf8e9fe4ec2e70175255e36c  C:\Users\cs2lab\Desktop\group14\wallet1.dat
+1d90637d5fcf5c09c59fc3fade0bc79b  C:\Users\cs2lab\Desktop\group14\md5deep64.exe
+09100a53042b4e80c3539e17e18a792b  C:\Users\cs2lab\Desktop\group14\sha256deep64.exe
